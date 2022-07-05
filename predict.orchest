@@ -23,7 +23,7 @@
                 ]
             },
             "parameters": {},
-            "title": "",
+            "title": "Load",
             "uuid": "008dfcb4-5ff6-41ee-9e78-7de22c5d5601"
         },
         "2ac833ed-4621-4edb-bd44-f0ffdcc46971": {
@@ -44,7 +44,7 @@
                 ]
             },
             "parameters": {},
-            "title": "",
+            "title": "Predict",
             "uuid": "2ac833ed-4621-4edb-bd44-f0ffdcc46971"
         }
     },

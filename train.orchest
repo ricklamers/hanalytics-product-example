@@ -23,7 +23,7 @@
                 ]
             },
             "parameters": {},
-            "title": "",
+            "title": "Load",
             "uuid": "53e3ceea-57f8-4e6f-a569-73366e4c11a6"
         },
         "bb09f064-3121-4ee0-98e4-b86b6b87b63d": {
@@ -44,7 +44,7 @@
                 ]
             },
             "parameters": {},
-            "title": "",
+            "title": "Train",
             "uuid": "bb09f064-3121-4ee0-98e4-b86b6b87b63d"
         },
         "e54323c9-6fd5-4fe3-8ffa-b1f9ffc8d480": {
@@ -65,7 +65,7 @@
                 ]
             },
             "parameters": {},
-            "title": "",
+            "title": "Explore",
             "uuid": "e54323c9-6fd5-4fe3-8ffa-b1f9ffc8d480"
         }
     },
