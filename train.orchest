@@ -1,5 +1,5 @@
 {
-    "name": "Main",
+    "name": "Train",
     "parameters": {},
     "services": {},
     "settings": {
@@ -23,12 +23,12 @@
                 ]
             },
             "parameters": {},
-            "title": "Load product data",
+            "title": "",
             "uuid": "53e3ceea-57f8-4e6f-a569-73366e4c11a6"
         },
         "bb09f064-3121-4ee0-98e4-b86b6b87b63d": {
             "environment": "085b9595-234b-4e55-9637-5217b5e5e5b0",
-            "file_path": "find_top_3.ipynb",
+            "file_path": "train_model.ipynb",
             "incoming_connections": [
                 "53e3ceea-57f8-4e6f-a569-73366e4c11a6"
             ],
@@ -44,7 +44,7 @@
                 ]
             },
             "parameters": {},
-            "title": "Find top 3",
+            "title": "",
             "uuid": "bb09f064-3121-4ee0-98e4-b86b6b87b63d"
         },
         "e54323c9-6fd5-4fe3-8ffa-b1f9ffc8d480": {
@@ -65,7 +65,7 @@
                 ]
             },
             "parameters": {},
-            "title": "Explore product data",
+            "title": "",
             "uuid": "e54323c9-6fd5-4fe3-8ffa-b1f9ffc8d480"
         }
     },
